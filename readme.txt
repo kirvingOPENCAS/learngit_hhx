@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 it tracks changes.
 observe remote git repository's change.
 Creating a new branch is quick.
+Creating a new branch is qucik & simple.
